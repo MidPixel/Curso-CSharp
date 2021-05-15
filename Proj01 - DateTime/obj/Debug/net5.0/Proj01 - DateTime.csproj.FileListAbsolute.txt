@@ -1,0 +1,15 @@
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj01 - DateTime\bin\Debug\net5.0\Proj01 - DateTime.exe
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj01 - DateTime\bin\Debug\net5.0\Proj01 - DateTime.deps.json
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj01 - DateTime\bin\Debug\net5.0\Proj01 - DateTime.runtimeconfig.json
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj01 - DateTime\bin\Debug\net5.0\Proj01 - DateTime.runtimeconfig.dev.json
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj01 - DateTime\bin\Debug\net5.0\Proj01 - DateTime.dll
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj01 - DateTime\bin\Debug\net5.0\ref\Proj01 - DateTime.dll
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj01 - DateTime\bin\Debug\net5.0\Proj01 - DateTime.pdb
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj01 - DateTime\obj\Debug\net5.0\Proj01 - DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj01 - DateTime\obj\Debug\net5.0\Proj01 - DateTime.AssemblyInfoInputs.cache
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj01 - DateTime\obj\Debug\net5.0\Proj01 - DateTime.AssemblyInfo.cs
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj01 - DateTime\obj\Debug\net5.0\Proj01 - DateTime.csproj.CoreCompileInputs.cache
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj01 - DateTime\obj\Debug\net5.0\Proj01 - DateTime.dll
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj01 - DateTime\obj\Debug\net5.0\ref\Proj01 - DateTime.dll
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj01 - DateTime\obj\Debug\net5.0\Proj01 - DateTime.pdb
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj01 - DateTime\obj\Debug\net5.0\Proj01 - DateTime.genruntimeconfig.cache

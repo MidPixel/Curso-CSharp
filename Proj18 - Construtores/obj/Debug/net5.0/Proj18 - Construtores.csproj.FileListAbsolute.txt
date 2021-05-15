@@ -1,0 +1,15 @@
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj18 - Construtores\bin\Debug\net5.0\Proj18 - Construtores.exe
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj18 - Construtores\bin\Debug\net5.0\Proj18 - Construtores.deps.json
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj18 - Construtores\bin\Debug\net5.0\Proj18 - Construtores.runtimeconfig.json
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj18 - Construtores\bin\Debug\net5.0\Proj18 - Construtores.runtimeconfig.dev.json
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj18 - Construtores\bin\Debug\net5.0\Proj18 - Construtores.dll
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj18 - Construtores\bin\Debug\net5.0\ref\Proj18 - Construtores.dll
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj18 - Construtores\bin\Debug\net5.0\Proj18 - Construtores.pdb
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj18 - Construtores\obj\Debug\net5.0\Proj18 - Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj18 - Construtores\obj\Debug\net5.0\Proj18 - Construtores.AssemblyInfoInputs.cache
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj18 - Construtores\obj\Debug\net5.0\Proj18 - Construtores.AssemblyInfo.cs
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj18 - Construtores\obj\Debug\net5.0\Proj18 - Construtores.csproj.CoreCompileInputs.cache
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj18 - Construtores\obj\Debug\net5.0\Proj18 - Construtores.dll
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj18 - Construtores\obj\Debug\net5.0\ref\Proj18 - Construtores.dll
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj18 - Construtores\obj\Debug\net5.0\Proj18 - Construtores.pdb
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj18 - Construtores\obj\Debug\net5.0\Proj18 - Construtores.genruntimeconfig.cache

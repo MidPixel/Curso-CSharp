@@ -1,0 +1,16 @@
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj01 - Vetores\bin\Debug\net5.0\Proj01 - Vetores.exe
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj01 - Vetores\bin\Debug\net5.0\Proj01 - Vetores.deps.json
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj01 - Vetores\bin\Debug\net5.0\Proj01 - Vetores.runtimeconfig.json
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj01 - Vetores\bin\Debug\net5.0\Proj01 - Vetores.runtimeconfig.dev.json
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj01 - Vetores\bin\Debug\net5.0\Proj01 - Vetores.dll
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj01 - Vetores\bin\Debug\net5.0\ref\Proj01 - Vetores.dll
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj01 - Vetores\bin\Debug\net5.0\Proj01 - Vetores.pdb
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj01 - Vetores\obj\Debug\net5.0\Proj01 - Vetores.csprojAssemblyReference.cache
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj01 - Vetores\obj\Debug\net5.0\Proj01 - Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj01 - Vetores\obj\Debug\net5.0\Proj01 - Vetores.AssemblyInfoInputs.cache
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj01 - Vetores\obj\Debug\net5.0\Proj01 - Vetores.AssemblyInfo.cs
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj01 - Vetores\obj\Debug\net5.0\Proj01 - Vetores.csproj.CoreCompileInputs.cache
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj01 - Vetores\obj\Debug\net5.0\Proj01 - Vetores.dll
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj01 - Vetores\obj\Debug\net5.0\ref\Proj01 - Vetores.dll
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj01 - Vetores\obj\Debug\net5.0\Proj01 - Vetores.pdb
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj01 - Vetores\obj\Debug\net5.0\Proj01 - Vetores.genruntimeconfig.cache

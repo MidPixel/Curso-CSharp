@@ -1,0 +1,13 @@
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj02 - Tipos Basícos\bin\Debug\netcoreapp3.1\Proj02 - Tipos Basícos.exe
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj02 - Tipos Basícos\bin\Debug\netcoreapp3.1\Proj02 - Tipos Basícos.deps.json
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj02 - Tipos Basícos\bin\Debug\netcoreapp3.1\Proj02 - Tipos Basícos.runtimeconfig.json
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj02 - Tipos Basícos\bin\Debug\netcoreapp3.1\Proj02 - Tipos Basícos.runtimeconfig.dev.json
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj02 - Tipos Basícos\bin\Debug\netcoreapp3.1\Proj02 - Tipos Basícos.dll
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj02 - Tipos Basícos\bin\Debug\netcoreapp3.1\Proj02 - Tipos Basícos.pdb
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj02 - Tipos Basícos\obj\Debug\netcoreapp3.1\Proj02 - Tipos Basícos.csprojAssemblyReference.cache
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj02 - Tipos Basícos\obj\Debug\netcoreapp3.1\Proj02 - Tipos Basícos.AssemblyInfoInputs.cache
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj02 - Tipos Basícos\obj\Debug\netcoreapp3.1\Proj02 - Tipos Basícos.AssemblyInfo.cs
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj02 - Tipos Basícos\obj\Debug\netcoreapp3.1\Proj02 - Tipos Basícos.csproj.CoreCompileInputs.cache
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj02 - Tipos Basícos\obj\Debug\netcoreapp3.1\Proj02 - Tipos Basícos.dll
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj02 - Tipos Basícos\obj\Debug\netcoreapp3.1\Proj02 - Tipos Basícos.pdb
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj02 - Tipos Basícos\obj\Debug\netcoreapp3.1\Proj02 - Tipos Basícos.genruntimeconfig.cache

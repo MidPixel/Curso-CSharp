@@ -1,0 +1,16 @@
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj10 - Funções Sintaxe\bin\Debug\net5.0\Proj10 - Funções Sintaxe.exe
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj10 - Funções Sintaxe\bin\Debug\net5.0\Proj10 - Funções Sintaxe.deps.json
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj10 - Funções Sintaxe\bin\Debug\net5.0\Proj10 - Funções Sintaxe.runtimeconfig.json
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj10 - Funções Sintaxe\bin\Debug\net5.0\Proj10 - Funções Sintaxe.runtimeconfig.dev.json
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj10 - Funções Sintaxe\bin\Debug\net5.0\Proj10 - Funções Sintaxe.dll
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj10 - Funções Sintaxe\bin\Debug\net5.0\ref\Proj10 - Funções Sintaxe.dll
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj10 - Funções Sintaxe\bin\Debug\net5.0\Proj10 - Funções Sintaxe.pdb
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj10 - Funções Sintaxe\obj\Debug\net5.0\Proj10 - Funções Sintaxe.csprojAssemblyReference.cache
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj10 - Funções Sintaxe\obj\Debug\net5.0\Proj10 - Funções Sintaxe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj10 - Funções Sintaxe\obj\Debug\net5.0\Proj10 - Funções Sintaxe.AssemblyInfoInputs.cache
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj10 - Funções Sintaxe\obj\Debug\net5.0\Proj10 - Funções Sintaxe.AssemblyInfo.cs
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj10 - Funções Sintaxe\obj\Debug\net5.0\Proj10 - Funções Sintaxe.csproj.CoreCompileInputs.cache
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj10 - Funções Sintaxe\obj\Debug\net5.0\Proj10 - Funções Sintaxe.dll
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj10 - Funções Sintaxe\obj\Debug\net5.0\ref\Proj10 - Funções Sintaxe.dll
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj10 - Funções Sintaxe\obj\Debug\net5.0\Proj10 - Funções Sintaxe.pdb
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj10 - Funções Sintaxe\obj\Debug\net5.0\Proj10 - Funções Sintaxe.genruntimeconfig.cache

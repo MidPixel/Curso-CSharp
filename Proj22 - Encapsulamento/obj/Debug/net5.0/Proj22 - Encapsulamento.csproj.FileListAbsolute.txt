@@ -1,0 +1,16 @@
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj22 - Encapsulamento\obj\Debug\net5.0\Proj22 - Encapsulamento.csprojAssemblyReference.cache
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj22 - Encapsulamento\obj\Debug\net5.0\Proj22 - Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj22 - Encapsulamento\obj\Debug\net5.0\Proj22 - Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj22 - Encapsulamento\obj\Debug\net5.0\Proj22 - Encapsulamento.AssemblyInfo.cs
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj22 - Encapsulamento\obj\Debug\net5.0\Proj22 - Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj22 - Encapsulamento\bin\Debug\net5.0\Proj22 - Encapsulamento.exe
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj22 - Encapsulamento\bin\Debug\net5.0\Proj22 - Encapsulamento.deps.json
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj22 - Encapsulamento\bin\Debug\net5.0\Proj22 - Encapsulamento.runtimeconfig.json
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj22 - Encapsulamento\bin\Debug\net5.0\Proj22 - Encapsulamento.runtimeconfig.dev.json
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj22 - Encapsulamento\bin\Debug\net5.0\Proj22 - Encapsulamento.dll
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj22 - Encapsulamento\bin\Debug\net5.0\ref\Proj22 - Encapsulamento.dll
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj22 - Encapsulamento\bin\Debug\net5.0\Proj22 - Encapsulamento.pdb
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj22 - Encapsulamento\obj\Debug\net5.0\Proj22 - Encapsulamento.dll
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj22 - Encapsulamento\obj\Debug\net5.0\ref\Proj22 - Encapsulamento.dll
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj22 - Encapsulamento\obj\Debug\net5.0\Proj22 - Encapsulamento.pdb
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj22 - Encapsulamento\obj\Debug\net5.0\Proj22 - Encapsulamento.genruntimeconfig.cache

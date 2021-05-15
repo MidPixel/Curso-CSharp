@@ -1,0 +1,13 @@
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj07 - Operadores comparativos\bin\Debug\netcoreapp3.1\Proj07 - Operadores comparativos.exe
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj07 - Operadores comparativos\bin\Debug\netcoreapp3.1\Proj07 - Operadores comparativos.deps.json
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj07 - Operadores comparativos\bin\Debug\netcoreapp3.1\Proj07 - Operadores comparativos.runtimeconfig.json
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj07 - Operadores comparativos\bin\Debug\netcoreapp3.1\Proj07 - Operadores comparativos.runtimeconfig.dev.json
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj07 - Operadores comparativos\bin\Debug\netcoreapp3.1\Proj07 - Operadores comparativos.dll
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj07 - Operadores comparativos\bin\Debug\netcoreapp3.1\Proj07 - Operadores comparativos.pdb
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj07 - Operadores comparativos\obj\Debug\netcoreapp3.1\Proj07 - Operadores comparativos.csprojAssemblyReference.cache
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj07 - Operadores comparativos\obj\Debug\netcoreapp3.1\Proj07 - Operadores comparativos.AssemblyInfoInputs.cache
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj07 - Operadores comparativos\obj\Debug\netcoreapp3.1\Proj07 - Operadores comparativos.AssemblyInfo.cs
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj07 - Operadores comparativos\obj\Debug\netcoreapp3.1\Proj07 - Operadores comparativos.csproj.CoreCompileInputs.cache
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj07 - Operadores comparativos\obj\Debug\netcoreapp3.1\Proj07 - Operadores comparativos.dll
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj07 - Operadores comparativos\obj\Debug\netcoreapp3.1\Proj07 - Operadores comparativos.pdb
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj07 - Operadores comparativos\obj\Debug\netcoreapp3.1\Proj07 - Operadores comparativos.genruntimeconfig.cache

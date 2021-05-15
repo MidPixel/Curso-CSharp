@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Proj02 - Vetores/1.0.0": {
+        "runtime": {
+          "Proj02 - Vetores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proj02 - Vetores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

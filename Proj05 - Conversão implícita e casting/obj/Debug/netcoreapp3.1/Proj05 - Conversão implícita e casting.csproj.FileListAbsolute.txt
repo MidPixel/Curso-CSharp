@@ -1,0 +1,13 @@
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj05 - Conversão implícita e casting\bin\Debug\netcoreapp3.1\Proj05 - Conversão implícita e casting.exe
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj05 - Conversão implícita e casting\bin\Debug\netcoreapp3.1\Proj05 - Conversão implícita e casting.deps.json
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj05 - Conversão implícita e casting\bin\Debug\netcoreapp3.1\Proj05 - Conversão implícita e casting.runtimeconfig.json
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj05 - Conversão implícita e casting\bin\Debug\netcoreapp3.1\Proj05 - Conversão implícita e casting.runtimeconfig.dev.json
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj05 - Conversão implícita e casting\bin\Debug\netcoreapp3.1\Proj05 - Conversão implícita e casting.dll
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj05 - Conversão implícita e casting\bin\Debug\netcoreapp3.1\Proj05 - Conversão implícita e casting.pdb
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj05 - Conversão implícita e casting\obj\Debug\netcoreapp3.1\Proj05 - Conversão implícita e casting.csprojAssemblyReference.cache
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj05 - Conversão implícita e casting\obj\Debug\netcoreapp3.1\Proj05 - Conversão implícita e casting.AssemblyInfoInputs.cache
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj05 - Conversão implícita e casting\obj\Debug\netcoreapp3.1\Proj05 - Conversão implícita e casting.AssemblyInfo.cs
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj05 - Conversão implícita e casting\obj\Debug\netcoreapp3.1\Proj05 - Conversão implícita e casting.csproj.CoreCompileInputs.cache
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj05 - Conversão implícita e casting\obj\Debug\netcoreapp3.1\Proj05 - Conversão implícita e casting.dll
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj05 - Conversão implícita e casting\obj\Debug\netcoreapp3.1\Proj05 - Conversão implícita e casting.pdb
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj05 - Conversão implícita e casting\obj\Debug\netcoreapp3.1\Proj05 - Conversão implícita e casting.genruntimeconfig.cache

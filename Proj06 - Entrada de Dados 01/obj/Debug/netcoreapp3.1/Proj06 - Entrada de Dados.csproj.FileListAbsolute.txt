@@ -1,0 +1,13 @@
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj06 - Entrada de Dados 01\bin\Debug\netcoreapp3.1\Proj06 - Entrada de Dados.exe
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj06 - Entrada de Dados 01\bin\Debug\netcoreapp3.1\Proj06 - Entrada de Dados.deps.json
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj06 - Entrada de Dados 01\bin\Debug\netcoreapp3.1\Proj06 - Entrada de Dados.runtimeconfig.json
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj06 - Entrada de Dados 01\bin\Debug\netcoreapp3.1\Proj06 - Entrada de Dados.runtimeconfig.dev.json
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj06 - Entrada de Dados 01\bin\Debug\netcoreapp3.1\Proj06 - Entrada de Dados.dll
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj06 - Entrada de Dados 01\bin\Debug\netcoreapp3.1\Proj06 - Entrada de Dados.pdb
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj06 - Entrada de Dados 01\obj\Debug\netcoreapp3.1\Proj06 - Entrada de Dados.csprojAssemblyReference.cache
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj06 - Entrada de Dados 01\obj\Debug\netcoreapp3.1\Proj06 - Entrada de Dados.AssemblyInfoInputs.cache
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj06 - Entrada de Dados 01\obj\Debug\netcoreapp3.1\Proj06 - Entrada de Dados.AssemblyInfo.cs
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj06 - Entrada de Dados 01\obj\Debug\netcoreapp3.1\Proj06 - Entrada de Dados.csproj.CoreCompileInputs.cache
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj06 - Entrada de Dados 01\obj\Debug\netcoreapp3.1\Proj06 - Entrada de Dados.dll
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj06 - Entrada de Dados 01\obj\Debug\netcoreapp3.1\Proj06 - Entrada de Dados.pdb
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj06 - Entrada de Dados 01\obj\Debug\netcoreapp3.1\Proj06 - Entrada de Dados.genruntimeconfig.cache

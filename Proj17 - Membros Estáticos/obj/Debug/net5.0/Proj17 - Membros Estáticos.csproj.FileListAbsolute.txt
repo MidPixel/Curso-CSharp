@@ -1,0 +1,16 @@
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj17 - Membros Estáticos\bin\Debug\net5.0\Proj17 - Membros Estáticos.exe
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj17 - Membros Estáticos\bin\Debug\net5.0\Proj17 - Membros Estáticos.deps.json
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj17 - Membros Estáticos\bin\Debug\net5.0\Proj17 - Membros Estáticos.runtimeconfig.json
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj17 - Membros Estáticos\bin\Debug\net5.0\Proj17 - Membros Estáticos.runtimeconfig.dev.json
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj17 - Membros Estáticos\bin\Debug\net5.0\Proj17 - Membros Estáticos.dll
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj17 - Membros Estáticos\bin\Debug\net5.0\ref\Proj17 - Membros Estáticos.dll
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj17 - Membros Estáticos\bin\Debug\net5.0\Proj17 - Membros Estáticos.pdb
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj17 - Membros Estáticos\obj\Debug\net5.0\Proj17 - Membros Estáticos.csprojAssemblyReference.cache
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj17 - Membros Estáticos\obj\Debug\net5.0\Proj17 - Membros Estáticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj17 - Membros Estáticos\obj\Debug\net5.0\Proj17 - Membros Estáticos.AssemblyInfoInputs.cache
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj17 - Membros Estáticos\obj\Debug\net5.0\Proj17 - Membros Estáticos.AssemblyInfo.cs
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj17 - Membros Estáticos\obj\Debug\net5.0\Proj17 - Membros Estáticos.csproj.CoreCompileInputs.cache
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj17 - Membros Estáticos\obj\Debug\net5.0\Proj17 - Membros Estáticos.dll
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj17 - Membros Estáticos\obj\Debug\net5.0\ref\Proj17 - Membros Estáticos.dll
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj17 - Membros Estáticos\obj\Debug\net5.0\Proj17 - Membros Estáticos.pdb
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj17 - Membros Estáticos\obj\Debug\net5.0\Proj17 - Membros Estáticos.genruntimeconfig.cache

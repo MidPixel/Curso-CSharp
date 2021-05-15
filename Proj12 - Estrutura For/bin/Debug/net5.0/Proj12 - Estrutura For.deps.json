@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Proj12 - Estrutura For/1.0.0": {
+        "runtime": {
+          "Proj12 - Estrutura For.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proj12 - Estrutura For/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

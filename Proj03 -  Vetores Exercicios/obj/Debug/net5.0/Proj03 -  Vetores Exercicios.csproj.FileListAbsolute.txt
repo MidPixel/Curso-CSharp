@@ -1,0 +1,16 @@
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj03 -  Vetores Exercicios\bin\Debug\net5.0\Proj03 -  Vetores Exercicios.exe
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj03 -  Vetores Exercicios\bin\Debug\net5.0\Proj03 -  Vetores Exercicios.deps.json
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj03 -  Vetores Exercicios\bin\Debug\net5.0\Proj03 -  Vetores Exercicios.runtimeconfig.json
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj03 -  Vetores Exercicios\bin\Debug\net5.0\Proj03 -  Vetores Exercicios.runtimeconfig.dev.json
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj03 -  Vetores Exercicios\bin\Debug\net5.0\Proj03 -  Vetores Exercicios.dll
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj03 -  Vetores Exercicios\bin\Debug\net5.0\ref\Proj03 -  Vetores Exercicios.dll
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj03 -  Vetores Exercicios\bin\Debug\net5.0\Proj03 -  Vetores Exercicios.pdb
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj03 -  Vetores Exercicios\obj\Debug\net5.0\Proj03 -  Vetores Exercicios.csprojAssemblyReference.cache
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj03 -  Vetores Exercicios\obj\Debug\net5.0\Proj03 -  Vetores Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj03 -  Vetores Exercicios\obj\Debug\net5.0\Proj03 -  Vetores Exercicios.AssemblyInfoInputs.cache
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj03 -  Vetores Exercicios\obj\Debug\net5.0\Proj03 -  Vetores Exercicios.AssemblyInfo.cs
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj03 -  Vetores Exercicios\obj\Debug\net5.0\Proj03 -  Vetores Exercicios.csproj.CoreCompileInputs.cache
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj03 -  Vetores Exercicios\obj\Debug\net5.0\Proj03 -  Vetores Exercicios.dll
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj03 -  Vetores Exercicios\obj\Debug\net5.0\ref\Proj03 -  Vetores Exercicios.dll
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj03 -  Vetores Exercicios\obj\Debug\net5.0\Proj03 -  Vetores Exercicios.pdb
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj03 -  Vetores Exercicios\obj\Debug\net5.0\Proj03 -  Vetores Exercicios.genruntimeconfig.cache

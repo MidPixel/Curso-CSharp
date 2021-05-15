@@ -1,0 +1,13 @@
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj04 - Operadores Atribuição\bin\Debug\netcoreapp3.1\Proj04 - Operadores Atribuição.exe
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj04 - Operadores Atribuição\bin\Debug\netcoreapp3.1\Proj04 - Operadores Atribuição.deps.json
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj04 - Operadores Atribuição\bin\Debug\netcoreapp3.1\Proj04 - Operadores Atribuição.runtimeconfig.json
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj04 - Operadores Atribuição\bin\Debug\netcoreapp3.1\Proj04 - Operadores Atribuição.runtimeconfig.dev.json
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj04 - Operadores Atribuição\bin\Debug\netcoreapp3.1\Proj04 - Operadores Atribuição.dll
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj04 - Operadores Atribuição\bin\Debug\netcoreapp3.1\Proj04 - Operadores Atribuição.pdb
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj04 - Operadores Atribuição\obj\Debug\netcoreapp3.1\Proj04 - Operadores Atribuição.csprojAssemblyReference.cache
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj04 - Operadores Atribuição\obj\Debug\netcoreapp3.1\Proj04 - Operadores Atribuição.AssemblyInfoInputs.cache
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj04 - Operadores Atribuição\obj\Debug\netcoreapp3.1\Proj04 - Operadores Atribuição.AssemblyInfo.cs
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj04 - Operadores Atribuição\obj\Debug\netcoreapp3.1\Proj04 - Operadores Atribuição.csproj.CoreCompileInputs.cache
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj04 - Operadores Atribuição\obj\Debug\netcoreapp3.1\Proj04 - Operadores Atribuição.dll
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj04 - Operadores Atribuição\obj\Debug\netcoreapp3.1\Proj04 - Operadores Atribuição.pdb
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj04 - Operadores Atribuição\obj\Debug\netcoreapp3.1\Proj04 - Operadores Atribuição.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj08 - Operadores Lógicos\bin\Debug\netcoreapp3.1\Proj08 - Operadores Lógicos.exe
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj08 - Operadores Lógicos\bin\Debug\netcoreapp3.1\Proj08 - Operadores Lógicos.deps.json
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj08 - Operadores Lógicos\bin\Debug\netcoreapp3.1\Proj08 - Operadores Lógicos.runtimeconfig.json
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj08 - Operadores Lógicos\bin\Debug\netcoreapp3.1\Proj08 - Operadores Lógicos.runtimeconfig.dev.json
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj08 - Operadores Lógicos\bin\Debug\netcoreapp3.1\Proj08 - Operadores Lógicos.dll
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj08 - Operadores Lógicos\bin\Debug\netcoreapp3.1\Proj08 - Operadores Lógicos.pdb
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj08 - Operadores Lógicos\obj\Debug\netcoreapp3.1\Proj08 - Operadores Lógicos.csprojAssemblyReference.cache
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj08 - Operadores Lógicos\obj\Debug\netcoreapp3.1\Proj08 - Operadores Lógicos.AssemblyInfoInputs.cache
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj08 - Operadores Lógicos\obj\Debug\netcoreapp3.1\Proj08 - Operadores Lógicos.AssemblyInfo.cs
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj08 - Operadores Lógicos\obj\Debug\netcoreapp3.1\Proj08 - Operadores Lógicos.csproj.CoreCompileInputs.cache
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj08 - Operadores Lógicos\obj\Debug\netcoreapp3.1\Proj08 - Operadores Lógicos.dll
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj08 - Operadores Lógicos\obj\Debug\netcoreapp3.1\Proj08 - Operadores Lógicos.pdb
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj08 - Operadores Lógicos\obj\Debug\netcoreapp3.1\Proj08 - Operadores Lógicos.genruntimeconfig.cache

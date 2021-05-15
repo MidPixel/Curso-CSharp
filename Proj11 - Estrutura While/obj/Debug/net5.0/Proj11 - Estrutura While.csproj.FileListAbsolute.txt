@@ -1,0 +1,16 @@
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj11 - Estrutura While\bin\Debug\net5.0\Proj11 - Estrutura While.exe
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj11 - Estrutura While\bin\Debug\net5.0\Proj11 - Estrutura While.deps.json
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj11 - Estrutura While\bin\Debug\net5.0\Proj11 - Estrutura While.runtimeconfig.json
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj11 - Estrutura While\bin\Debug\net5.0\Proj11 - Estrutura While.runtimeconfig.dev.json
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj11 - Estrutura While\bin\Debug\net5.0\Proj11 - Estrutura While.dll
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj11 - Estrutura While\bin\Debug\net5.0\ref\Proj11 - Estrutura While.dll
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj11 - Estrutura While\bin\Debug\net5.0\Proj11 - Estrutura While.pdb
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj11 - Estrutura While\obj\Debug\net5.0\Proj11 - Estrutura While.csprojAssemblyReference.cache
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj11 - Estrutura While\obj\Debug\net5.0\Proj11 - Estrutura While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj11 - Estrutura While\obj\Debug\net5.0\Proj11 - Estrutura While.AssemblyInfoInputs.cache
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj11 - Estrutura While\obj\Debug\net5.0\Proj11 - Estrutura While.AssemblyInfo.cs
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj11 - Estrutura While\obj\Debug\net5.0\Proj11 - Estrutura While.csproj.CoreCompileInputs.cache
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj11 - Estrutura While\obj\Debug\net5.0\Proj11 - Estrutura While.dll
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj11 - Estrutura While\obj\Debug\net5.0\ref\Proj11 - Estrutura While.dll
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj11 - Estrutura While\obj\Debug\net5.0\Proj11 - Estrutura While.pdb
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj11 - Estrutura While\obj\Debug\net5.0\Proj11 - Estrutura While.genruntimeconfig.cache

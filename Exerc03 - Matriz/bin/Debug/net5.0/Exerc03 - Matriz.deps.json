@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exerc03 - Matriz/1.0.0": {
+        "runtime": {
+          "Exerc03 - Matriz.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exerc03 - Matriz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

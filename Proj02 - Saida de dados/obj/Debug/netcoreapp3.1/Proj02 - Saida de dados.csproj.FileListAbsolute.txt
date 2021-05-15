@@ -1,0 +1,13 @@
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj02 - Saida de dados\bin\Debug\netcoreapp3.1\Proj02 - Saida de dados.exe
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj02 - Saida de dados\bin\Debug\netcoreapp3.1\Proj02 - Saida de dados.deps.json
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj02 - Saida de dados\bin\Debug\netcoreapp3.1\Proj02 - Saida de dados.runtimeconfig.json
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj02 - Saida de dados\bin\Debug\netcoreapp3.1\Proj02 - Saida de dados.runtimeconfig.dev.json
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj02 - Saida de dados\bin\Debug\netcoreapp3.1\Proj02 - Saida de dados.dll
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj02 - Saida de dados\bin\Debug\netcoreapp3.1\Proj02 - Saida de dados.pdb
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj02 - Saida de dados\obj\Debug\netcoreapp3.1\Proj02 - Saida de dados.csprojAssemblyReference.cache
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj02 - Saida de dados\obj\Debug\netcoreapp3.1\Proj02 - Saida de dados.AssemblyInfoInputs.cache
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj02 - Saida de dados\obj\Debug\netcoreapp3.1\Proj02 - Saida de dados.AssemblyInfo.cs
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj02 - Saida de dados\obj\Debug\netcoreapp3.1\Proj02 - Saida de dados.csproj.CoreCompileInputs.cache
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj02 - Saida de dados\obj\Debug\netcoreapp3.1\Proj02 - Saida de dados.dll
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj02 - Saida de dados\obj\Debug\netcoreapp3.1\Proj02 - Saida de dados.pdb
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj02 - Saida de dados\obj\Debug\netcoreapp3.1\Proj02 - Saida de dados.genruntimeconfig.cache

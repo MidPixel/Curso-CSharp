@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Proj02 - Saida de dados/1.0.0": {
+        "runtime": {
+          "Proj02 - Saida de dados.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proj02 - Saida de dados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

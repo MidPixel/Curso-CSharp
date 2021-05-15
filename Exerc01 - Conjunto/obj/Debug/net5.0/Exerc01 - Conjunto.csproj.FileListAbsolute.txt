@@ -1,0 +1,16 @@
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc01 - Conjunto\bin\Debug\net5.0\Exerc01 - Conjunto.exe
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc01 - Conjunto\bin\Debug\net5.0\Exerc01 - Conjunto.deps.json
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc01 - Conjunto\bin\Debug\net5.0\Exerc01 - Conjunto.runtimeconfig.json
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc01 - Conjunto\bin\Debug\net5.0\Exerc01 - Conjunto.runtimeconfig.dev.json
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc01 - Conjunto\bin\Debug\net5.0\Exerc01 - Conjunto.dll
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc01 - Conjunto\bin\Debug\net5.0\ref\Exerc01 - Conjunto.dll
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc01 - Conjunto\bin\Debug\net5.0\Exerc01 - Conjunto.pdb
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc01 - Conjunto\obj\Debug\net5.0\Exerc01 - Conjunto.csprojAssemblyReference.cache
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc01 - Conjunto\obj\Debug\net5.0\Exerc01 - Conjunto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc01 - Conjunto\obj\Debug\net5.0\Exerc01 - Conjunto.AssemblyInfoInputs.cache
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc01 - Conjunto\obj\Debug\net5.0\Exerc01 - Conjunto.AssemblyInfo.cs
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc01 - Conjunto\obj\Debug\net5.0\Exerc01 - Conjunto.csproj.CoreCompileInputs.cache
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc01 - Conjunto\obj\Debug\net5.0\Exerc01 - Conjunto.dll
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc01 - Conjunto\obj\Debug\net5.0\ref\Exerc01 - Conjunto.dll
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc01 - Conjunto\obj\Debug\net5.0\Exerc01 - Conjunto.pdb
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc01 - Conjunto\obj\Debug\net5.0\Exerc01 - Conjunto.genruntimeconfig.cache

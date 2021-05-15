@@ -1,0 +1,16 @@
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc01 - List\bin\Debug\net5.0\Exerc01 - List.exe
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc01 - List\bin\Debug\net5.0\Exerc01 - List.deps.json
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc01 - List\bin\Debug\net5.0\Exerc01 - List.runtimeconfig.json
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc01 - List\bin\Debug\net5.0\Exerc01 - List.runtimeconfig.dev.json
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc01 - List\bin\Debug\net5.0\Exerc01 - List.dll
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc01 - List\bin\Debug\net5.0\ref\Exerc01 - List.dll
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc01 - List\bin\Debug\net5.0\Exerc01 - List.pdb
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc01 - List\obj\Debug\net5.0\Exerc01 - List.csprojAssemblyReference.cache
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc01 - List\obj\Debug\net5.0\Exerc01 - List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc01 - List\obj\Debug\net5.0\Exerc01 - List.AssemblyInfoInputs.cache
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc01 - List\obj\Debug\net5.0\Exerc01 - List.AssemblyInfo.cs
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc01 - List\obj\Debug\net5.0\Exerc01 - List.csproj.CoreCompileInputs.cache
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc01 - List\obj\Debug\net5.0\Exerc01 - List.dll
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc01 - List\obj\Debug\net5.0\ref\Exerc01 - List.dll
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc01 - List\obj\Debug\net5.0\Exerc01 - List.pdb
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc01 - List\obj\Debug\net5.0\Exerc01 - List.genruntimeconfig.cache

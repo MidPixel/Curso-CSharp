@@ -1,0 +1,16 @@
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc03 - Matriz\bin\Debug\net5.0\Exerc03 - Matriz.exe
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc03 - Matriz\bin\Debug\net5.0\Exerc03 - Matriz.deps.json
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc03 - Matriz\bin\Debug\net5.0\Exerc03 - Matriz.runtimeconfig.json
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc03 - Matriz\bin\Debug\net5.0\Exerc03 - Matriz.runtimeconfig.dev.json
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc03 - Matriz\bin\Debug\net5.0\Exerc03 - Matriz.dll
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc03 - Matriz\bin\Debug\net5.0\ref\Exerc03 - Matriz.dll
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc03 - Matriz\bin\Debug\net5.0\Exerc03 - Matriz.pdb
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc03 - Matriz\obj\Debug\net5.0\Exerc03 - Matriz.csprojAssemblyReference.cache
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc03 - Matriz\obj\Debug\net5.0\Exerc03 - Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc03 - Matriz\obj\Debug\net5.0\Exerc03 - Matriz.AssemblyInfoInputs.cache
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc03 - Matriz\obj\Debug\net5.0\Exerc03 - Matriz.AssemblyInfo.cs
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc03 - Matriz\obj\Debug\net5.0\Exerc03 - Matriz.csproj.CoreCompileInputs.cache
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc03 - Matriz\obj\Debug\net5.0\Exerc03 - Matriz.dll
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc03 - Matriz\obj\Debug\net5.0\ref\Exerc03 - Matriz.dll
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc03 - Matriz\obj\Debug\net5.0\Exerc03 - Matriz.pdb
+C:\Users\willian caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Exerc03 - Matriz\obj\Debug\net5.0\Exerc03 - Matriz.genruntimeconfig.cache

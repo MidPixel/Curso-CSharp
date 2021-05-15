@@ -1,0 +1,13 @@
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj03 - Operadores Aritméticos\bin\Debug\netcoreapp3.1\Proj03 - Operadores Aritméticos.exe
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj03 - Operadores Aritméticos\bin\Debug\netcoreapp3.1\Proj03 - Operadores Aritméticos.deps.json
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj03 - Operadores Aritméticos\bin\Debug\netcoreapp3.1\Proj03 - Operadores Aritméticos.runtimeconfig.json
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj03 - Operadores Aritméticos\bin\Debug\netcoreapp3.1\Proj03 - Operadores Aritméticos.runtimeconfig.dev.json
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj03 - Operadores Aritméticos\bin\Debug\netcoreapp3.1\Proj03 - Operadores Aritméticos.dll
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj03 - Operadores Aritméticos\bin\Debug\netcoreapp3.1\Proj03 - Operadores Aritméticos.pdb
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj03 - Operadores Aritméticos\obj\Debug\netcoreapp3.1\Proj03 - Operadores Aritméticos.csprojAssemblyReference.cache
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj03 - Operadores Aritméticos\obj\Debug\netcoreapp3.1\Proj03 - Operadores Aritméticos.AssemblyInfoInputs.cache
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj03 - Operadores Aritméticos\obj\Debug\netcoreapp3.1\Proj03 - Operadores Aritméticos.AssemblyInfo.cs
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj03 - Operadores Aritméticos\obj\Debug\netcoreapp3.1\Proj03 - Operadores Aritméticos.csproj.CoreCompileInputs.cache
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj03 - Operadores Aritméticos\obj\Debug\netcoreapp3.1\Proj03 - Operadores Aritméticos.dll
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj03 - Operadores Aritméticos\obj\Debug\netcoreapp3.1\Proj03 - Operadores Aritméticos.pdb
+C:\Users\Willian Caldas\Documents\Visual Studio 2019\Projetos\Aulas - Programação em C\Proj03 - Operadores Aritméticos\obj\Debug\netcoreapp3.1\Proj03 - Operadores Aritméticos.genruntimeconfig.cache
